@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Milos Zelman CZ",
+    "img": "/image/milos-zelman-cz.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Joe Biden USA",
+    "img": "/image/joe-biden.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Vladimir Putin RU",
+    "img": "/image/putin.png"
+  },
+  {
+    "id": 4,
+    "title": "Aleksandr Lukashenko BY",
+    "img": "/image/lukashenko.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Volodymyr Zelenskij UKR",
+    "img": "/image/zel.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Andrzej Duda PL",
+    "img": "/image/polish duda.jfif"
+  },
+  {
+    "id": 7,
+    "title": "Emmanuel Macron FR",
+    "img": "/image/france-emmanuel-macron.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Fumio Kisida prime ministr JP",
+    "img": "/image/kisida fumio prime-minister-of-japan.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Xi Jinping CN",
+    "img": "/image/china.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Justin Trudeau CA ",
+    "img": "/image/justin-trudeau-kanada.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Frank-Walter Steinmeier DE",
+    "img": "/image/frank steinmeier.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Recep Tayyip Erdogan TR",
+    "img": "/image/erdogan-t.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Ram Nath Kovind IN",
+    "img": "/image/ram-nath-kovind.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Moon Jae KR",
+    "img": "/image/moon-jae-south-korea.jpg"
+  }
+]

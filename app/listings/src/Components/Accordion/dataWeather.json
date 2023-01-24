@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Cloudy",
+    "img": "/image/cloudy.png"
+  },
+  {
+    "id": 2,
+    "title": "A little rain",
+    "img": "/image/rain.jfif"
+  },
+  {
+    "id": 3,
+    "title": "Raining",
+    "img": "/image/raining.jfif"
+  },
+  {
+    "id": 4,
+    "title": "Sunny",
+    "img": "/image/sunny.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Overcast",
+    "img": "/image/overcast.png"
+  },
+  {
+    "id": 6,
+    "title": "Rain and snow",
+    "img": "/image/snow-rain.jfif"
+  },
+  {
+    "id": 7,
+    "title": "Snow",
+    "img": "/image/snow.jfif"
+  },
+  {
+    "id": 8,
+    "title": "Thunderstorm",
+    "img": "/image/thundery-showers.png"
+  },
+  {
+    "id": 9,
+    "title": "Fog",
+    "img": "/image/fog.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Flood",
+    "img": "/image/flood.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Freezing",
+    "img": "/image/freezing.png"
+  },
+  {
+    "id": 12,
+    "title": "Hot",
+    "img": "/image/hot.png"
+  },
+  {
+    "id": 13,
+    "title": "Wind",
+    "img": "/image/wind.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Tornado",
+    "img": "/image/tornado.jpg"
+  }
+]
