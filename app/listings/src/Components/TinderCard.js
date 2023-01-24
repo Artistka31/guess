@@ -3,6 +3,7 @@ import axios from "axios";
 import { Component } from "react";
 import { v4 as uuid } from "uuid";
 import "bootstrap/dist/css/bootstrap.min.css";
+import TinderCard from "react-tinder-card";
 
 class Tinder extends Component {
   constructor() {
@@ -72,39 +73,39 @@ class Tinder extends Component {
         >
           Play with me. It's very simple. Click guess and make a choice.
         </h2>
-        {/* {this.state.data.map((listing) => (
+        {this.state.data.map((listing) => (
           <TinderCard
             key={listing.login}
             onSwipe={(dir) => this.onSwipe(dir, listing._id)}
-          > */}
-        <div className="TinderCard">
-          <p>How should I refer to you?</p>
-          <div className="TinderCard-details">
-            <h3
-              style={{
-                color: "white",
-                margin: "0.3em",
-              }}
-            >
-              <input
-                value={this.state.login}
-                onChange={this.handleChange}
-                style={{
-                  color: "black",
-                  width: "100%",
-                }}
-              />
-            </h3>
-            <br />
-            <div className="TinderCard-actions">
-              <button className="button" onClick={this.handleSignUp}>
-                Sign Me Up!
-              </button>
+          >
+            <div className="TinderCard">
+              <p>How should I refer to you?</p>
+              <div className="TinderCard-details">
+                <h3
+                  style={{
+                    color: "white",
+                    margin: "0.3em",
+                  }}
+                >
+                  <input
+                    value={this.state.login}
+                    onChange={this.handleChange}
+                    style={{
+                      color: "black",
+                      width: "100%",
+                    }}
+                  />
+                </h3>
+                <br />
+                <div className="TinderCard-actions">
+                  <button className="button" onClick={this.handleSignUp}>
+                    Sign Me Up!
+                  </button>
+                </div>
+              </div>
             </div>
-          </div>
-        </div>
-        {/* </TinderCard>
-        ))} */}
+          </TinderCard>
+        ))}
       </div>
     );
   }
